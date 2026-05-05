@@ -139,7 +139,7 @@ export default function Header({
 
             {/* WhatsApp number (desktop only) */}
             <a
-              href="https://wa.me/252631234567"
+              href="https://wa.me/971529096058"
               target="_blank"
               rel="noreferrer"
               className="hidden lg:flex items-center gap-1.5 text-green-700 text-xs font-semibold bg-green-50 border border-green-200 px-3 py-1.5 rounded-lg hover:bg-green-100 transition-colors"
