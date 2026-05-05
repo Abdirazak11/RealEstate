@@ -46,7 +46,7 @@ export default function Footer({ tx, onNavClick }) {
               </li>
               <li>
                 <a
-                  href="https://wa.me/252631234567"
+                  href="https://wa.me/971529096058"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center gap-2 text-green-400 hover:text-green-300 font-semibold transition-colors"
