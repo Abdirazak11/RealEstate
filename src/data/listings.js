@@ -8,6 +8,7 @@
  *   id, title, price, location, type_key, beds, baths, area,
  *   phone, image_url, featured, created_at
  */
+const WA = import.meta.env.VITE_WHATSAPP_NUMBER;
 
 export const STATIC_LISTINGS = [
   {
@@ -19,7 +20,7 @@ export const STATIC_LISTINGS = [
     beds: 4,
     baths: 2,
     area: "220 m²",
-    phone: "252634000001",
+    phone: WA,
     image_url: "https://placehold.co/600x420/d4a574/7c4a1e?text=Borama+Villa",
     featured: true,
   },
