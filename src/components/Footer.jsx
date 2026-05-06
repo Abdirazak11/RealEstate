@@ -46,13 +46,13 @@ export default function Footer({ tx, onNavClick }) {
               </li>
               <li>
                 <a
-                  href="https://wa.me/971529096058"
+                  href="https://wa.me/WA"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center gap-2 text-green-400 hover:text-green-300 font-semibold transition-colors"
                 >
                   <IconWA className="w-4 h-4" />
-                  +252 63 1234567
+                  +971 52 9096058
                 </a>
               </li>
               <li className="flex items-center gap-2">
